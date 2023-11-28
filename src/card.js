@@ -1,5 +1,4 @@
 import "./card.css";
-import "../src/icon_img.jpeg";
 function card(props) {
   return (
     <div className="cardbox">
